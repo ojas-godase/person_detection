@@ -1,4 +1,4 @@
-# People Detection & Counting — YOLOv8 vs YOLOv5 vs RT-DETR
+<img width="933" height="331" alt="image" src="https://github.com/user-attachments/assets/85d70747-672e-48db-8529-65bff0dff112" /># People Detection & Counting — YOLOv8 vs YOLOv5 vs RT-DETR
 
 This repository presents a complete workflow for **real-time person detection, tracking, and counting** using three modern object detection architectures — **YOLOv8**, **YOLOv5**, and **RT-DETR**.  
 The project includes **data preparation**, **exploratory data analysis (EDA)**, **training and evaluation**, and a fully interactive **Streamlit deployment** for real-world testing.
@@ -281,10 +281,11 @@ pip install streamlit opencv-python-headless deep-sort-realtime
   - Email: rudra282805@gmail.com
   - LinkedIn: [Linkedin](https://www.linkedin.com/in/rudra-shekhare-006987279/)
 
-## 📄 Citation
+## Citation
 
-If you use this code or reference our paper, please cite:
+If you use this work, please cite it as:
 
-Ojas Godase and Rudra Shekhare,
-"Comparative Analysis of YOLOv5, YOLOv8, and RT-DETR for Real-Time Person Detection and Counting", 2025.
-Available at: [Github](https://github.com/ojas-godase/person_detection)
+> Ojas Godase and Rudra Shekhare , **"Real-Time Person Detection and Counting Using YOLOv5, YOLOv8, and RT-DETR"**, Zenodo, 2025.  
+> DOI: [10.5281/zenodo.17266539](https://doi.org/10.5281/zenodo.17266539)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17266539.svg)](https://doi.org/10.5281/zenodo.17266539)
