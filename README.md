@@ -1,4 +1,4 @@
-<img width="933" height="331" alt="image" src="https://github.com/user-attachments/assets/85d70747-672e-48db-8529-65bff0dff112" /># People Detection & Counting — YOLOv8 vs YOLOv5 vs RT-DETR
+# People Detection & Counting — YOLOv8 vs YOLOv5 vs RT-DETR
 
 This repository presents a complete workflow for **real-time person detection, tracking, and counting** using three modern object detection architectures — **YOLOv8**, **YOLOv5**, and **RT-DETR**.  
 The project includes **data preparation**, **exploratory data analysis (EDA)**, **training and evaluation**, and a fully interactive **Streamlit deployment** for real-world testing.
