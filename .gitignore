@@ -1,4 +1,4 @@
-/yolov5/yolov5
 *.pt
 /test
 *.streamlit
+.DS_Store
